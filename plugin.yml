@@ -1,1 +1,9 @@
-
+name: WorldStats
+main: Legoboy\WorldStats
+version: 1.0.0
+author: Legoboy
+api: [1.0.0]
+permissions:
+ worldstats:
+  default: op
+  description: Can create world status signs...
